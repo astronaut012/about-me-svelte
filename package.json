@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "random",
+  "homepage": "https://astronaut012.github.io/svelte-about-me",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
