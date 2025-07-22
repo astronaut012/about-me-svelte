@@ -88,7 +88,7 @@
 <div id="fancy" style="text-align: center">
   <i
     >I am passionate about many things, such as literature, coding and sports
-    &#10024; &#x2728;</i
+    &#10024;</i
   >
 </div>
 <p id="hearts" style="color: goldenrod; font-size: 30px;">
