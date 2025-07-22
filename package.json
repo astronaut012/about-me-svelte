@@ -1,9 +1,9 @@
 {
-  "name": "svelte",
+  "name": "about-me-svelte",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://astronaut012.github.io/svelte-about-me",
+  "homepage": "https://astronaut012.github.io/about-me-svelte",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
