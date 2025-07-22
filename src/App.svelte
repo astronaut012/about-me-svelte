@@ -55,7 +55,7 @@
   <img
     alt="books"
     style="width:100%;height:700px;margin:1%"
-    src="books.jpg"
+    src="books.png"
   />
   <div class="centered">
     <p style="font-size: 50px;background-color:rgba(255, 255, 255, 0.801);">
