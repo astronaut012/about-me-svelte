@@ -50,22 +50,30 @@
 <p>I can code in more languages than I can speak! &lt;br&gt;</p>
 
 <div class="banner" style="text-decoration: dashed">Hobbies</div>
-<center>
-  <div style="font-size: 50px;">
-    READING <br /><small>
+
+<div class="container">
+  <img
+    src="pexels-element5-1370295.jpg"
+    alt="books"
+    style="width:100%;height:700px;margin:1%"
+  />
+  <div class="centered">
+    <p style="font-size: 50px;background-color:rgba(255, 255, 255, 0.801);">
       READING <br /><small>
-        Reading <br /><small>
-          Reading <br />
-          <small>
-            Reading <br /><small>
-              Reading <br /><small> Reading </small></small
+        READING <br /><small>
+          Reading <br /><small>
+            Reading <br />
+            <small>
+              Reading <br /><small>
+                Reading <br /><small> Reading </small></small
+              ></small
             ></small
           ></small
         ></small
-      ></small
-    >
+      >
+    </p>
   </div>
-</center>
+</div>
 
 <p>It's reading all the way</p>
 <p>My favourite genre is science fiction</p>
@@ -93,12 +101,19 @@
 </div>
 <p id="hearts" style="color: goldenrod; font-size: 30px;">
   &hearts; &hearts; &hearts; &hearts; &hearts; &hearts; &hearts; &hearts;
-  &hearts; &hearts; &hearts; &hearts; &hearts; 
+  &hearts; &hearts; &hearts; &hearts; &hearts;
 </p>
 
 <style>
   h1 {
     color: #2c3e50;
     font-family: Arial, sans-serif;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
   }
 </style>
