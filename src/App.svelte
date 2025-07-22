@@ -93,7 +93,7 @@
 </div>
 <p id="hearts" style="color: goldenrod; font-size: 30px;">
   &hearts; &hearts; &hearts; &hearts; &hearts; &hearts; &hearts; &hearts;
-  &hearts; &hearts; &hearts; &hearts; &hearts;
+  &hearts; &hearts; &hearts; &hearts; 
 </p>
 
 <style>
